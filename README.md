@@ -1,2 +1,2 @@
 # About me
- A simple webpage about me, consisting html and css only
+ A simple website about me, consisting html and css only
